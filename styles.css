@@ -25,6 +25,7 @@ body{
 img{
     height: 100vh;
     width: 35vw;
+    box-shadow: 5px 0px 2rem rgba(90, 90, 90, 0.60)
 }
 .main{
     display: flex;
